@@ -1,5 +1,6 @@
 {
   "name": "frontend-monorepo-boilerplate",
+  "private": true,
   "version": "1.0.0",
   "description": "boilerplate for frontend packages with monorepo",
   "main": "index.js",
